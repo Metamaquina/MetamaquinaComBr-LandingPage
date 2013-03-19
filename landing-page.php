@@ -29,6 +29,7 @@
 			</a>
 		</section>
 		<div class="clearfix"></div>
+	  <img class="na-tv" src="<?php bloginfo('template_directory'); ?>/includes/landing-page/img/como-visto-na-tv.png" />
 	</div>
 	<footer>
 		<div class="landing-container">
